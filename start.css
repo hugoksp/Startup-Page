@@ -49,3 +49,12 @@ a:hover {
 a:active {
   color: #75507B;
 }
+
+#tilt {
+	position: absolute;
+	color: #EF2929;
+	border: none;
+	width: auto;
+	right: 1%;
+	bottom: 1%;
+}	
